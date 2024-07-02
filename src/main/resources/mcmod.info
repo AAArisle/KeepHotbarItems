@@ -1,0 +1,16 @@
+[
+{
+  "modid": "keephotbaritems",
+  "name": "Keep Hotbar Items",
+  "description": "Keep your armors and items in hotbar when you die.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["AAArisle"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
